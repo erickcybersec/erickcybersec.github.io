@@ -2,8 +2,6 @@
 ---
 ---
 layout: default
-markdown: kramdown
-theme: minima
 title: Erick Mwachia Mwanyumba – Portfolio
 ---
 ![Profile Photo](profile.jpg)
