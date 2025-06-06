@@ -1,20 +1,17 @@
 ---
-layout: home
-author_profile: true
 ---
 ---
 layout: default
+markdown: kramdown
+theme: minima
 title: Erick Mwachia Mwanyumba – Portfolio
 ---
-
-![Profile Photo](profile.jpg){: style="width:120px;border-radius:50%;margin-bottom:15px;" }
+![Profile Photo](profile.jpg)
 
 # Erick Mwanyumba
-
-**ICT Support Officer | Cybersecurity Enthusiast**
-
+**ICT Support Officer | Cybersecurity Enthusiast**  
 📧 [erickmwanyumba@gmail.com](mailto:erickmwanyumba@gmail.com)  
-🔗 [github.com/erickcybersec](https://github.com/erickcybersec)  
+💻 [github.com/erickcybersec](https://github.com/erickcybersec)  
 📞 +254 742 243 940
 
 ---
@@ -27,17 +24,17 @@ ICT Support Officer with 5+ years of experience supporting technical operations 
 
 ## Work Experience
 
-- Daily technical user support in Wundanyi Sub County departments.  
-- Set up and manage VPN, IFMIS systems, and Revenue System integrations.  
-- Preventive maintenance for hospital and county IT infrastructure.  
-- Inventory updates and training for ICT interns/attachees.  
+- Daily technical user support in Wundanyi Sub County departments.
+- Set up and manage VPN, IFMIS systems, and Revenue System integrations.
+- Preventive maintenance for hospital and county IT infrastructure.
+- Inventory updates and training for ICT interns/attachees.
 
 ---
 
 ## Education
 
 **Diploma in Information Communication Technology**  
-_Machakos University, 2013 – 2015_
+*Machakos University, 2013 – 2015*
 
 ---
 
@@ -47,7 +44,7 @@ _Machakos University, 2013 – 2015_
 - Cybersecurity Fundamentals and Ethical Hacking  
 - Computer Repairs & Diagnostics  
 - Digital Marketing  
-- Git & GitHub  
+- Git & GitHub
 
 ---
 
@@ -58,7 +55,7 @@ _Machakos University, 2013 – 2015_
 - Network Server Security Certification  
 - CompTIA Cloud+ Advanced  
 - Tax Planning 2025 Certification  
-- Ethical Hacking Essentials – Cyber Shujaa (In Progress)  
+- Ethical Hacking Essentials – Cyber Shujaa *(In Progress)*
 
 ---
 
@@ -77,26 +74,36 @@ Installed EasyWorship-based triple-screen display system for sermons and church 
 
 ## Lab Challenges
 
-**Challenge:** Simulated DoS/DDoS Attack in TryHackMe  
-**Tools Used:** hping3, Wireshark  
-**Approach:** Flooded ports to analyze target system behavior.  
-**Key Lesson:** Identified attack indicators and mitigation strategies.
+### 1. Running Your First Few Commands  
+**Tools Used:** Linux Terminal  
+**Approach:** Practiced `echo` and `whoami` to understand command-line basics in a non-GUI environment.
 
-**Challenge:** SQL Injection Vulnerability Lab  
-**Tools Used:** DVWA, Burp Suite  
-**Approach:** Injected SQL payloads to extract data from a weak login form.  
-**Key Lesson:** Importance of input validation and parameterized queries.
+### 2. Interacting With the Filesystem  
+**Commands Practiced:** `ls`, `cd`, `cat`, `pwd`  
+**Approach:** Navigated directories, read files, and printed current directory paths.  
+![Screenshot](lab1.png)
+
+### 3. Searching for Files  
+**Commands Practiced:** `find`, `grep`  
+**Example:** `find –name ErickCV.doc` – to locate a file by name.  
+![Screenshot](lab2.png)
+
+### 4. Shell Operators  
+**Operators Practiced:** `&`, `&&`, `>`, `>>`  
+**Approach:** Learned logical and redirection operators to combine and direct command output.  
+![Screenshot](lab3.png)
 
 ---
 
 ## Contact
 
-📧 [erickmwanyumba@gmail.com](mailto:erickmwanyumba@gmail.com)  
-🔗 [GitHub](https://github.com/erickcybersec)  
-📞 +254 742 243 940  
+- [GitHub](https://github.com/erickcybersec)  
+- [Email](mailto:erickmwanyumba@gmail.com)  
+- Phone: +254 742 243 940
 
 ---
 
 © 2025 Erick Mwanyumba. All rights reserved.
+
 
 
